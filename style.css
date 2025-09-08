@@ -1,0 +1,44 @@
+header{
+    text-align: center;
+    align-content: center;
+    height: 200px; 
+    margin: 0px;
+    padding: 0px;  
+    box-sizing: border-box;
+    background-color: #F8FAFC;
+}
+h1{
+    font-weight: 2.25rem;
+}
+h2{
+    font-weight: 1.5rem;
+}
+h4{
+    font-weight: normal;
+}
+.main{
+    margin-top: 0px;
+    width: 60vw;
+    height: 100%;
+    margin-left: 250px;
+    background-color: #D2D5DA;  
+}
+ol,ul{
+    margin: 0;
+    padding: 0;
+    margin-left: 16px;  
+}
+ol li,ul li{
+    margin-top: 10px;
+}
+ul li{
+    font-weight: bold;
+}
+ul li span{
+    font-weight: normal;
+}
+.one{
+    margin-left: 25px;
+    height: 100vh;
+    margin-top: 70px;
+}
